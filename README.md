@@ -7,16 +7,16 @@ PMD_elecCH_cluster_min_imports.py – Model execution script with minimal import
 
 detailed_results_elec_200_128_BASE_OPT.xlsx – Detailed outputs for the BASE_OPT scenario.
 
-detailed_results_elec_200_128_delayed_2.xlsx – Detailed outputs for the DELAY_2 scenario.
+detailed_results_elec_200_128_delayed_2.xlsx – Detailed outputs for the DELAY_1 scenario.
 
-detailed_results_elec_200_128_delayed_3.xlsx – Detailed outputs for the DELAY_3 scenario.
+detailed_results_elec_200_128_delayed_3.xlsx – Detailed outputs for the DELAY_2 scenario.
 
 Data/
 Contains the input datasets for the Swiss electricity system model:
 
 MANGOelec_conversion_CH.xlsx – Conversion technology data (capacities, costs, retirements).
 
-MANGOelec_miscellaneous_CH.xlsx – Miscellaneous parameters (carbon factors, discount rates, etc.).
+MANGOelec_miscellaneous_CH.xlsx – Miscellaneous parameters (import/export, carbon factors, discount rates, etc.).
 
 MANGOelec_storage_CH.xlsx – Storage data (efficiency, capacity, lifetimes, costs).
 
@@ -40,4 +40,3 @@ DELAYED_1 – Policy intervention delayed by one period.
 
 DELAYED_2 – Policy intervention delayed by two periods.
 
-DELAYED_3 – Policy intervention delayed by three periods (only in detailed results).
